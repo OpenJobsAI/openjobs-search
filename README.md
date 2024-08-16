@@ -1,2 +1,2 @@
 # openjobs-search
-Your First LLM-based Online Search Engine
+Your First LLM-based Job Search Engine
